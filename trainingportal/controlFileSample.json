@@ -1,0 +1,13 @@
+{
+	"adminUsers": [
+		"tarek",
+		"zain",
+		"adminTest",
+		"rishavjeet",
+		"limiteduserr"
+
+	],
+	"blockedSolutions": [
+		"cwe306"
+	]
+}

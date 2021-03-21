@@ -1,0 +1,14 @@
+{
+    "dojoUrl" : "http://159.203.0.46:8081",
+    "moduleUrls" : {
+        "blackBelt":"http://159.203.0.46:8080",
+        "securityCodeReviewMaster":"https://trendmicro.github.io/SecureCodingDojo/codereview101/?fromPortal"
+    },
+
+    "disabledModules":["secondDegreeBlackBelt","redTeam","blueTeam"],
+
+    "playLinks" : {},
+
+    "localUsersPath" : "localUsers.json",
+    "myControlFileRawPath" : "controlFile.json"
+}
